@@ -1,0 +1,5 @@
+# Nmap 7.92 scan initiated Sun Sep 19 16:27:24 2021 as: nmap -p- --open -sS --min-rate 5000 -vvv -n -Pn -oG allPorts 10.10.80.1
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.10.80.1 ()	Status: Up
+Host: 10.10.80.1 ()	Ports: 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 3389/open/tcp//ms-wbt-server///, 49152/open/tcp//unknown///, 49153/open/tcp//unknown///, 49154/open/tcp//unknown///, 49158/open/tcp//unknown///, 49160/open/tcp//unknown///
+# Nmap done at Sun Sep 19 16:27:39 2021 -- 1 IP address (1 host up) scanned in 14.54 seconds
